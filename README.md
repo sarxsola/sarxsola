@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 📫 You can shoot me a text at **e.sarasolamatias@gmail.com**
+- 📫 You can shoot me a message at **e.sarasolamatias@gmail.com**
 
 - 📄 <a href="https://drive.google.com/file/d/1LJLLbmGQdmfmvPHSovdeTfJg3ONCHVh4/view?usp=sharing](https://drive.google.com/file/d/1LJLLbmGQdmfmvPHSovdeTfJg3ONCHVh4/view?usp=sharing">Know about my experiences</a>
 
